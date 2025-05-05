@@ -36,3 +36,9 @@ He adquirido habilidades prácticas y teóricas mediante plataformas como:
 - ☁️ **Microsoft Azure Learning**: Conceptos de cloud computing aplicados a la ingeniería de datos.
 - 🧠 **Cloudera**: Conocimientos básicos sobre la plataforma en general.
 - ⚙️ **AVEVA OSIsoft PI System**: Consumo de datos a través de la API para la integración de estos en sistemas SCADA.
+
+## 📫 Contacto
+
+Podés contactarme a través de [LinkedIn](https://linkedin.com/in/gabriel-ulloa-saavedra/) o revisar mis proyectos acá en GitHub.
+
+¡Gracias por visitar mi portafolio!
