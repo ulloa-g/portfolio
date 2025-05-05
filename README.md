@@ -21,11 +21,18 @@ Actualmente me encuentro en una etapa de transición profesional hacia el mundo 
 
 Stack:
 
-🔹 **Lenguajes de programación**: `Python, SQL`  
-🔹 **Procesamiento de datos**: `Pandas, Spark`  
-🔹 **ETL & flujos de trabajo**: `Airflow, NiFi`  
-🔹 **Nube**: `Cloudera, Azure, Docker`  
-🔹 **Bases de datos**: `PostgreSQL`  
-🔹 **Otros**: `Git, Linux, Bash`  
+- **Lenguajes de programación**: `Python, SQL`  
+- **Procesamiento de datos**: `Pandas, Spark`  
+- **ETL & flujos de trabajo**: `Airflow, NiFi`  
+- **Nube**: `Cloudera, Azure, Docker`  
+- **Bases de datos**: `PostgreSQL`  
+- **Otros**: `Git, Linux, Bash`  
 
----
+## 🎓 Formación complementaria
+
+He adquirido habilidades prácticas y teóricas mediante plataformas como:
+
+- 📘 **Udemy** y **DataCamp**: Fundamentos de Python, SQL, modelado de datos, pipelines y ETL.
+- ☁️ **Microsoft Azure Learning**: Conceptos de cloud computing aplicados a la ingeniería de datos.
+- 🧠 **Cloudera**: Conocimientos básicos sobre la plataforma en general.
+- ⚙️ **AVEVA OSIsoft PI System**: Consumo de datos a través de la API para la integración de estos en sistemas SCADA.
