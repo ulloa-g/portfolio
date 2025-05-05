@@ -12,3 +12,5 @@ He tenido la oportunidad de trabajar profesionalmente en sectores clave como:
 - 📡 **Telecomunicaciones**
 
 Grandes empresas han confiado en mis aptitudes técnicas y en mi capacidad de aprendizaje, permitiéndome adquirir experiencia real en entornos exigentes y de alta responsabilidad.
+
+Puedes ver mi CV actualizado [aquí](https://drive.google.com/file/d/1A4DfP_m6mVv7Wqqt68NNqIYuX1zJpULd/view?usp=sharing).
