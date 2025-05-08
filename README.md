@@ -45,6 +45,10 @@ Podés contactarme a través de [LinkedIn](https://linkedin.com/in/gabriel-ulloa
 
 # Projecto n°1
 
-Proceso ETL con Python y SQLite
+Proceso ETL con Python y SQLite. [Click Aquí](https://github.com/ulloa-g/etl_csv_to_sql)
 
 Desarrollé un pipeline ETL sencillo utilizando **Python** para consumir datos desde un archivo **.csv**, realizar tareas de **limpieza y transformación**, y exportarlos a una base de datos **SQLite**. Este proyecto me permitió afianzar conceptos clave de manipulación de datos con **pandas**.
+
+**Desafíos abordados:** 
+- Validación de datos inconsistentes y reemplazo de valores no estandarizados
+- Conversión de tipos de datos para carga en base relacional
