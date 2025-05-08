@@ -42,3 +42,6 @@ He adquirido habilidades prácticas y teóricas mediante plataformas como:
 Podés contactarme a través de [LinkedIn](https://linkedin.com/in/gabriel-ulloa-saavedra/) o revisar mis proyectos acá en GitHub.
 
 ¡Gracias por visitar mi portafolio!
+
+# Projecto n°1
+
