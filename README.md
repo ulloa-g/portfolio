@@ -91,3 +91,15 @@ El flujo consistió en la extracción de datos desde un archivo **.CSV alojado e
 **Desafíos abordados:**
 - Integración entre servicios de Azure
 - Configuración de conexiones y control de acceso
+
+# Proyecto n°5
+
+Pipeline con Airflow y carga a SQLite. [Click aquí](https://github.com/ulloa-g/etl_airflow)
+
+Implementé un pipeline de datos utilizando un dataset descargado desde **Kaggle**, donde se realizaron **transformaciones básicas** y limpieza inicial para preparar los datos. Posteriormente fueron cargados en una base de datos **SQLite**.
+
+La novedad principal del proyecto fue la **orquestación completa del proceso mediante Apache Airflow**, definiendo DAGs y tareas, dependencias y control de ejecución.
+
+**Desafíos abordados:**
+- Automatización
+- Separación de lógica de transformación y lógica de orquestación
