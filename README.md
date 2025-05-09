@@ -78,3 +78,16 @@ Durante el proceso se abordaron tareas como:
 - Transformación de variables categóricas en **datos numéricos**
 
 Finalizado el análisis, se construyó un **modelo de regresión lineal** como aproximación inicial al aprendizaje automático, permitiendo establecer relaciones entre variables y evaluar su comportamiento.
+
+# Proyecto n°4
+
+Pipeline en la nube con Azure Data Factory. [Click aquí](https://github.com/ulloa-g/azure_datafactory)
+
+Desarrollé un pipeline en la nube utilizando **Azure Data Factory**, desde la creación de la instancia hasta la configuración de los recursos necesarios para la ingestión y almacenamiento de datos estructurados.
+
+El flujo consistió en la extracción de datos desde un archivo **.CSV alojado en Azure Blob Storage** y carga en una base de datos **Azure SQL Database**. Se utilizó el editor de consultas de Azure para crear la tabla destino y definir su estructura.
+
+
+**Desafíos abordados:**
+- Integración entre servicios de Azure
+- Configuración de conexiones y control de acceso
