@@ -65,3 +65,16 @@ Este proyecto me permitió trabajar con estructuras de datos anidadas, asegurar 
 - Manejo de respuestas JSON complejas y paginadas
 - Normalización y limpieza de estructuras de datos irregulares
 - Prevención de exposición de datos sensibles en repositorios públicos
+
+# Proyecto n°3
+
+Análisis Exploratorio y Modelo de Regresión Lineal. [Click aquí](https://github.com/ulloa-g/exploratory_data_analysis)
+
+Realicé un **análisis exploratorio de datos (EDA)** utilizando **Jupyter Notebook**, empleando librerías como **NumPy**, **pandas**, **requests** y **SciPy**. El objetivo fue identificar patrones, inconsistencias y preparar los datos.
+
+Durante el proceso se abordaron tareas como:
+- Identificación y corrección de **inconsistencias de datos**
+- **Conversión de unidades de ingeniería** y tipos de datos
+- Transformación de variables categóricas en **datos numéricos**
+
+Finalizado el análisis, se construyó un **modelo de regresión lineal** como aproximación inicial al aprendizaje automático, permitiendo establecer relaciones entre variables y evaluar su comportamiento.
