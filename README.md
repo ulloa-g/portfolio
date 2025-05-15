@@ -22,9 +22,9 @@ Actualmente me encuentro en una etapa de transición profesional hacia el mundo 
 Stack:
 
 - **Lenguajes de programación**: `Python, SQL`  
-- **Procesamiento de datos**: `Pandas, Spark`  
-- **ETL & flujos de trabajo**: `Airflow, NiFi`  
-- **Nube**: `Cloudera, Azure, Docker`  
+- **Procesamiento de datos**: `Pandas`  
+- **ETL & flujos de trabajo**: `Airflow`  
+- **Nube**: `Azure`  
 - **Bases de datos**: `PostgreSQL`  
 - **Otros**: `Git, Linux, Bash`  
 
@@ -103,3 +103,10 @@ La novedad principal del proyecto fue la **orquestación completa del proceso me
 **Desafíos abordados:**
 - Automatización
 - Separación de lógica de transformación y lógica de orquestación
+
+## 🧭 Estado actual
+
+Actualmente me encuentro profundizando mis conocimientos en herramientas de nivel empresarial, trabajando con **Cloudera Data Platform (CDP)** y explorando el uso de **Apache NiFi** para el diseño de flujos de datos. 
+
+
+Mi objetivo es seguir construyendo una base sólida en herramientas modernas de ingeniería de datos y aplicarlas en contextos reales.
