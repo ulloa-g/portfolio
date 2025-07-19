@@ -116,7 +116,7 @@ El objetivo principal es demostrar el conocimiento práctico de los componentes 
 
 ## 🧭 Estado actual
 
-Actualmente me encuentro profundizando mis conocimientos en herramientas de nivel empresarial, trabajando con **Cloudera Data Platform (CDP)** y explorando el uso de **Apache NiFi** para el diseño de flujos de datos. 
+Actualmente me encuentro profundizando mis conocimientos en herramientas y stack utilizado en mi portfolio y aprendiendo sobre **AWS**.
 
 
 Mi objetivo es seguir construyendo una base sólida en herramientas modernas de ingeniería de datos y aplicarlas en contextos reales.
