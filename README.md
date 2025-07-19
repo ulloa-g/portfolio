@@ -23,7 +23,7 @@ Stack:
 
 - **Lenguajes de programación**: `Python, SQL`  
 - **Procesamiento de datos**: `Pandas`  
-- **ETL & flujos de trabajo**: `Airflow`  
+- **ETL & flujos de trabajo**: `Airflow, NiFi`
 - **Nube**: `Azure`  
 - **Bases de datos**: `PostgreSQL`  
 - **Otros**: `Git, Linux, Bash`  
