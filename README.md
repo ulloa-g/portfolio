@@ -104,6 +104,16 @@ La novedad principal del proyecto fue la **orquestación completa del proceso me
 - Automatización
 - Separación de lógica de transformación y lógica de orquestación
 
+# Proyecto n°6
+
+ETL con Apache Nifi. [Click aquí](https://github.com/ulloa-g/etl_apache_nifi)
+
+El objetivo principal es demostrar el conocimiento práctico de los componentes y funcionalidades clave de Apache NiFi en el contexto de un pipeline de Extracción, Transformación y Carga (ETL). Se busca evidenciar la capacidad de diseñar, construir y operar flujos de datos utilizando esta herramienta, creando un flujo de datos que lee archivos de un sistema de archivos local, los transforma añadiendo un timestamp y reemplazando texto, y luego guarda el archivo transformado en formato CSV
+
+**Desafios abordados:**
+- Diseñar, construir y operar flujos de datos de manera modular y organizada utilizando un "Process Group"
+- Gestionar el acceso y la seguridad básica de la interfaz de usuario de NiFi, incluyendo la generación de credenciales de usuario únicas.
+
 ## 🧭 Estado actual
 
 Actualmente me encuentro profundizando mis conocimientos en herramientas de nivel empresarial, trabajando con **Cloudera Data Platform (CDP)** y explorando el uso de **Apache NiFi** para el diseño de flujos de datos. 
