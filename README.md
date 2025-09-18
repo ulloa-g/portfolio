@@ -13,7 +13,7 @@ He tenido la oportunidad de trabajar profesionalmente en sectores clave como:
 
 Grandes empresas han confiado en mis aptitudes técnicas y en mi capacidad de aprendizaje, permitiéndome adquirir experiencia real en entornos exigentes y de alta responsabilidad.
 
-Puedes ver mi CV actualizado [aquí](https://drive.google.com/file/d/1A4DfP_m6mVv7Wqqt68NNqIYuX1zJpULd/view?usp=sharing).
+Puedes ver mi CV actualizado [aquí](https://drive.google.com/file/d/169QrK4D-7o7fh2g1WuR2a22TcsCeUxWs/view?usp=sharing).
 
 ## 🚀 Transición hacia la Ingeniería de Datos
 
@@ -22,10 +22,11 @@ Actualmente me encuentro en una etapa de transición profesional hacia el mundo 
 Stack:
 
 - **Lenguajes de programación**: `Python, SQL`  
-- **Procesamiento de datos**: `Pandas`  
+- **Procesamiento de datos**: `Pandas, PySpark`  
 - **ETL & flujos de trabajo**: `Airflow, NiFi`
 - **Nube**: `Azure`  
-- **Bases de datos**: `PostgreSQL`  
+- **Bases de datos**: `PostgreSQL`
+- **Data Warehousing / Cloud Analytics**: `Snowflake`  
 - **Otros**: `Git, Linux, Bash`  
 
 ## 🎓 Formación complementaria
@@ -45,7 +46,7 @@ Podés contactarme a través de [LinkedIn](https://linkedin.com/in/gabriel-ulloa
 
 # Proyecto n°1
 
-Proceso ETL con Python y SQLite. [Click aquí](https://github.com/ulloa-g/etl_csv_to_sql)
+### Proceso ETL con Python y SQLite. [Click aquí](https://github.com/ulloa-g/etl_csv_to_sql)
 
 Desarrollé un pipeline ETL sencillo utilizando **Python** para consumir datos desde un archivo **.csv**, realizar tareas de **limpieza y transformación**, y exportarlos a una base de datos **SQLite**. Este proyecto me permitió afianzar conceptos clave de manipulación de datos con **pandas**.
 
@@ -55,7 +56,7 @@ Desarrollé un pipeline ETL sencillo utilizando **Python** para consumir datos d
 
 # Proyecto n°2
 
-Proceso ETL desde API pública a PostgreSQL. [Click aquí](https://github.com/ulloa-g/etl_api_to_sql)
+### Proceso ETL desde API pública a PostgreSQL. [Click aquí](https://github.com/ulloa-g/etl_api_to_sql)
 
 Implementé un pipeline ETL más complejo, donde consumo datos dinámicos desde una **API pública**, realizo **limpieza, transformación** y manejo de **valores nulos**, para luego cargar los datos procesados en una base de datos **PostgreSQL**.
 
@@ -68,7 +69,7 @@ Este proyecto me permitió trabajar con estructuras de datos anidadas, asegurar 
 
 # Proyecto n°3
 
-Análisis Exploratorio y Modelo de Regresión Lineal. [Click aquí](https://github.com/ulloa-g/exploratory_data_analysis)
+### Análisis Exploratorio y Modelo de Regresión Lineal. [Click aquí](https://github.com/ulloa-g/exploratory_data_analysis)
 
 Realicé un **análisis exploratorio de datos (EDA)** utilizando **Jupyter Notebook**, empleando librerías como **NumPy**, **pandas**, **requests** y **SciPy**. El objetivo fue identificar patrones, inconsistencias y preparar los datos.
 
@@ -81,7 +82,7 @@ Finalizado el análisis, se construyó un **modelo de regresión lineal** como a
 
 # Proyecto n°4
 
-Pipeline en la nube con Azure Data Factory. [Click aquí](https://github.com/ulloa-g/azure_datafactory)
+### Pipeline en la nube con Azure Data Factory. [Click aquí](https://github.com/ulloa-g/azure_datafactory)
 
 Desarrollé un pipeline en la nube utilizando **Azure Data Factory**, desde la creación de la instancia hasta la configuración de los recursos necesarios para la ingestión y almacenamiento de datos estructurados.
 
@@ -94,7 +95,7 @@ El flujo consistió en la extracción de datos desde un archivo **.CSV alojado e
 
 # Proyecto n°5
 
-Pipeline con Airflow y carga a SQLite. [Click aquí](https://github.com/ulloa-g/etl_airflow)
+### Pipeline con Airflow y carga a SQLite. [Click aquí](https://github.com/ulloa-g/etl_airflow)
 
 Implementé un pipeline de datos utilizando un dataset descargado desde **Kaggle**, donde se realizaron **transformaciones básicas** y limpieza inicial para preparar los datos. Posteriormente fueron cargados en una base de datos **SQLite**.
 
@@ -106,7 +107,7 @@ La novedad principal del proyecto fue la **orquestación completa del proceso me
 
 # Proyecto n°6
 
-ETL con Apache Nifi. [Click aquí](https://github.com/ulloa-g/etl_apache_nifi)
+### ETL con Apache Nifi. [Click aquí](https://github.com/ulloa-g/etl_apache_nifi)
 
 El objetivo principal es demostrar el conocimiento práctico de los componentes y funcionalidades clave de Apache NiFi en el contexto de un pipeline de Extracción, Transformación y Carga (ETL). Se busca evidenciar la capacidad de diseñar, construir y operar flujos de datos utilizando esta herramienta, creando un flujo de datos que lee archivos de un sistema de archivos local, los transforma añadiendo un timestamp y reemplazando texto, y luego guarda el archivo transformado en formato CSV
 
