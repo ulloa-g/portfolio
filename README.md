@@ -115,9 +115,28 @@ El objetivo principal es demostrar el conocimiento práctico de los componentes 
 - Diseñar, construir y operar flujos de datos de manera modular y organizada utilizando un "Process Group"
 - Gestionar el acceso y la seguridad básica de la interfaz de usuario de NiFi, incluyendo la generación de credenciales de usuario únicas.
 
+# Proyecto n°7
+
+### Modelado de datos en Snowflake. [Click aquí](https://github.com/ulloa-g/retail-snowflake-etl)
+
+Este proyecto tiene como objetivo implementar un proceso ETL (Extract, Transform, Load) en un entorno de Data Warehouse en Snowflake aplicando Modelado de datos en un esquema estrella.
+El flujo combina dos enfoques:
+
+Snowflake GUI para configuración, modelado y carga inicial.
+Automatización con scripts en Python para la integración y actualización de datos.
+De esta forma, se busca aprender y poner en práctica un pipeline que aproveche la flexibilidad de Snowflake junto con la programación en Python para orquestar las tareas.
+
+**Desafios abordados:**
+- Configuración de conexión segura a Snowflake con variables de entorno.
+
+- Carga de datos desde Python (pandas + write_pandas) hacia Snowflake.
+
+- Modelado de datos en esquemas RAW y STG siguiendo arquitectura en estrella.
+
+
 ## 🧭 Estado actual
 
-Actualmente me encuentro profundizando mis conocimientos en herramientas y stack utilizado en mi portfolio y aprendiendo sobre **AWS**.
+Actualmente me encuentro profundizando mis conocimientos en herramientas y stack utilizado en mi portfolio y aprendiendo sobre `PySpark` para trabajar con **bigdata**.
 
 
 Mi objetivo es seguir construyendo una base sólida en herramientas modernas de ingeniería de datos y aplicarlas en contextos reales.
